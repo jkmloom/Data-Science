@@ -1,0 +1,14 @@
+name: jupe
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - plotly
+  - bokeh
+  - bokeh_sampledata
+prefix: /home/jkmloom/miniconda3/envs/jupe
