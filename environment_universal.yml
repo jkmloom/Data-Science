@@ -11,4 +11,5 @@ dependencies:
   - plotly
   - bokeh
   - bokeh_sampledata
+  - flask
 prefix: /home/jkmloom/miniconda3/envs/jupe
