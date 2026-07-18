@@ -1,0 +1,4 @@
+tbh i lowkey don't think this matters, but my friends keep yapping about how companies stalk your github activity. i literally just found out github doesn't give you those green squares when you commit to a feature branch (tragic). so i'm just gonna drop my progress here in updates.txt on the main branch every day, or honestly just whenever i feel like it.
+
+year, day, month -> branch -> commit -m
+2026, 18 jul. -> 01-statistics -> "added and covered covariance and correlation"
