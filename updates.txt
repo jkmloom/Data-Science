@@ -4,3 +4,4 @@ year, day, month -> branch -> commit -m
 2026, 18 jul. -> 01-statistics -> "added and covered covariance and correlation"
 2026, 18 jul. -> 01-statistics -> "added and covered implementation of covariance and correlation"
 2026, 19 jul. -> 01-statistics -> "added and coveerd random variables"
+2026, 19 jul. -> 01-statistics -> "added and covered probablity distribution function"
