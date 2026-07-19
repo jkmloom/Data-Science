@@ -3,3 +3,4 @@ tbh i lowkey don't think this matters, but my friends keep yapping about how com
 year, day, month -> branch -> commit -m
 2026, 18 jul. -> 01-statistics -> "added and covered covariance and correlation"
 2026, 18 jul. -> 01-statistics -> "added and covered implementation of covariance and correlation"
+2026, 19 jul. -> 01-statistics -> "added and coveerd random variables"
