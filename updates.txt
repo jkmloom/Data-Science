@@ -6,3 +6,4 @@ year, day, month -> branch -> commit -m
 2026, 19 jul. -> 01-statistics -> "added and coveerd random variables"
 2026, 19 jul. -> 01-statistics -> "added and covered probablity distribution function"
 2026, 20 jul. -> 01-statistics -> "added and covered probablity distribution function -> CDF"
+2026, 21 jul. -> 01-statistics -> "added and coveerd discrete uniform fistribution"
